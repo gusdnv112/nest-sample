@@ -6,5 +6,6 @@
     "password": "qwer1234",
     "database": "nest_sample",
     "entities": ["dist/**/*.entity{.ts,.js}"],
-    "synchronize": true
+    "synchronize": true,
+    "logging" : true
   }
